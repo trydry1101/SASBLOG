@@ -6,6 +6,7 @@ soup
 34 0.6
 0 8
 */
+
 %let PATH_CONF=/folders/myfolders/ex_data/MyRawdata;
 DATA drink_l;
    INFILE "&Path_conf./drinkdata_l.txt";
