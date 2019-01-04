@@ -1,0 +1,3 @@
+legal-v Ep1 15 Ep2 18.1 Ep3 15.9
+Partner Ep1 17.1 Ep2 17.0 Ep3 15.6
+Rocket Ep1 13.9 Ep2 12.4 Ep3 14.7
