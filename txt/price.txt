@@ -1,4 +1,4 @@
-tomato 250
+tomato 240
 apple 138
 olive 298
 ginger 98
