@@ -1,0 +1,5 @@
+tomato 250
+apple 138
+olive 298
+ginger 98
+onion 158

@@ -1,0 +1,5 @@
+tomato_juice 1050
+apple_juice 98
+olive_oil 620
+ginger_syrop 498
+onion_soup 218
