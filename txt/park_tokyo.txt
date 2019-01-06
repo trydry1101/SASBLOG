@@ -1,0 +1,6 @@
+Showa   Tachikawa             148.7  nrank:4
+Kasai   Edogawa               79.6  nrank:3
+Koganei   Koganei             77.5  nrank:2
+Mizumoto   Katsushika         76.7  nrank:6
+Toneri   Adachi               61.3  nrank:1
+Yoyogi   Shibuya              54.1  nrank:5
